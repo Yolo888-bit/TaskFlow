@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+server/.env
+*.log
+server/db/*.db
+server/db/*.db-wal
+server/db/*.db-shm
+.DS_Store
+.vscode/
